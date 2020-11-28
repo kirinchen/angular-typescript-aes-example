@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-typescript-aes-example"
+    }
+  },
+  "defaultProject": "angular-typescript-aes-example",
+  "cli": {
+    "analytics": "5c292b90-0e62-4faa-b79f-75d2ad4c6fb5"
+  }
 }
